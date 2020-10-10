@@ -1,6 +1,6 @@
 # Pig Latin Translator
 
-> Translator that converts English to Pig Latin using Python
+> A Translator that converts English to Pig Latin using Python
 
 ## Table of contents
 
@@ -40,7 +40,7 @@
 
 ## Setup
 
-```
+```sh
 # Clone this repository
 $ git clone https://github.com/danakim21/pig-latin-translator.git
 
@@ -74,7 +74,7 @@ To Do
 
 ## Project Status
 
-Project is: _temporarily finished_, will be updated for further development
+Project is: _temporarily finished_, will be updated for further development.
 
 ## Contact
 
