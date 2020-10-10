@@ -1,6 +1,6 @@
 # Pig Latin Translator
 
-> A Translator that converts English to Pig Latin using Python
+> A Translator that converts English to Pig Latin built with Python
 
 ## Table of contents
 
